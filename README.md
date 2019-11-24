@@ -1,7 +1,9 @@
 READ ME
 
 Arrow left/right    -->     ship left/right
+
 Space bar           -->     shoot
+
 Q                   -->     quit
 
 
