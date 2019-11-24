@@ -4,7 +4,7 @@
 
 ```bash
 #Clone the repo and enter the dir
-py alien_invasion.py
+python alien_invasion.py
 ```
 
 ## How to play
